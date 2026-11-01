@@ -1,0 +1,16 @@
+import React from 'react'
+import Nav from './Components/Nav/Nav'
+import Hero from './Components/Hero/Hero'
+import Footer from './Components/Footer/Footer'
+
+const App = () => {
+  return (
+    <div>
+      <Nav />
+      <Hero />
+      <Footer />
+    </div>
+  )
+}
+
+export default App
