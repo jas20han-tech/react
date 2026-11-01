@@ -1,0 +1,7 @@
+JSX is combination of HTML & JS
+
+
+HTML                   JS
+class-> className
+for -> htmlFor
+
