@@ -1,0 +1,12 @@
+*{
+  background-color: black;
+  color: white;
+}
+
+body {
+  display: flex;
+  justify-content: center; /* Horizontal center */
+  align-items: center;     /* Vertical center */
+  min-height: 100vh;
+  margin: 0;
+}
