@@ -12,7 +12,6 @@ const App = () => {
       <Jashan />
       {name}
       <div className="box">
-
       </div>
     </div>
   )

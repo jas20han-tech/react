@@ -1,11 +1,11 @@
-import React from 'react'
+  import React from 'react'
 import { useRef } from 'react'
 import { useEffect } from 'react'
 import { use } from 'react'
 import { useState } from 'react'
 
 const App = () => {
-  let count= useRef(0);
+  let count = useRef(0);
   let [num,setNum] = useState(0)
 
   useEffect(()=>{
